@@ -49,3 +49,6 @@ To calculate and display class-wise statistics for "Gamma":
 
     Open the tool in your browser.
     Check the "Gamma Analysis" Data.
+
+
+![image](https://github.com/dev-abhishekk3108/DataVisualization/assets/113583129/ae5e2b1b-9ec4-47be-8e08-09c372f9047d)
