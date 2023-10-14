@@ -5,7 +5,7 @@ This project is a data analysis tool for a wine dataset, providing utility funct
 Getting Started
 
 1- Clone the Repository: Clone this repository to your local machine:
-git clone <repository-url>
+git clone https://github.com/dev-abhishekk3108/DataVisualization.git
 
 2- Install Dependencies: Install project dependencies:
 npm install
@@ -41,11 +41,11 @@ Flavanoids Analysis
 To calculate and display class-wise statistics for "Flavanoids":
 
     Open the tool in your browser.
-    Select the "Flavanoids Analysis" option.
+    Check the "Flavanoids Analysis" Data.
 
 Gamma Analysis
 
 To calculate and display class-wise statistics for "Gamma":
 
     Open the tool in your browser.
-    Select the "Gamma Analysis" option.
+    Check the "Gamma Analysis" Data.
